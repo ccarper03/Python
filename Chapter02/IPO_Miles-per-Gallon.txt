@@ -1,0 +1,10 @@
+input
+miles
+gallons of gas
+
+processing
+mpg = miles * galOfGas
+output
+miles per gallon
+
+print(format(num3, '7.2f'))
